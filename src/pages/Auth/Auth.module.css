@@ -1,0 +1,44 @@
+.text-regis {
+  text-align: center;
+  padding-top: 1em;
+}
+.cat,
+.cat-lg,
+.cat-md,
+.cat-sm,
+.cat-xl {
+  /* background-color: aquamarine; */
+  max-width: 450px !important;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  border-radius: 10px;
+  box-shadow: 5px 7px 21px -8px rgba(103, 96, 184, 0.98);
+}
+
+.cat img {
+  /* background-color: lightgrey; */
+  height: 200px;
+  display: block !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+a:link,
+a:visited {
+  text-decoration: none !important;
+  color: white;
+  cursor: pointer !important;
+}
+
+.btnlog {
+  background-color: #4b7c57 !important;
+  border-radius: none !important;
+  color: #fff;
+}
+
+.cat input {
+  height: 50px;
+  box-shadow: 5px 7px 21px -8px rgba(103, 96, 184, 0.98);
+}

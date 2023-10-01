@@ -1,0 +1,12 @@
+.text {
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+}
+
+.title {
+  display: flex;
+
+  justify-content: space-between;
+}
