@@ -5,9 +5,9 @@
   </div>
 
   <p align="center">
-    <a href="https://github.com/yabeselkana/react_biginer.git"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/yabeselkana/React_Articel_FE.git"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://react-biginer.vercel.app/home">View Demo</a>
+    <a href="https://react-articel-fe.vercel.app/">View Demo</a>
   </p>
 </p>
 
@@ -54,7 +54,7 @@ Follow this steps to run the server locally
 1. Clone this repository
 
 ```sh
-git clone https://github.com/yabeselkana/react_biginer.git
+git clone https://github.com/yabeselkana/React_Articel_FE.git
 ```
 
 2. Change directory to blanja
@@ -91,92 +91,44 @@ npm run build
 
 <table>
   <tr>
-    <td><img width="350px" src="./documentation/loginCostomer.PNG" border="0" alt="Login" /></td>
-    <td> <img width="350px" src="./documentation/loginSeller.PNG" border="0"  alt="Register" /></td>
+    <td><img width="350px" src="./doc/login.png" border="0" alt="Login" /></td>
+    <td> <img width="350px" src="./doc/register.png" border="0"  alt="Register" /></td>
   </tr>
   <tr>
-    <td>Login Costomer</td>
-    <td>Login Seller</td>
+    <td>Login</td>
+    <td>Register</td>
   </tr>
   <tr>
-    <td><img width="350px" src="./documentation/registerCostomer.PNG" border="0" alt="Profile" /> </td>
-    <td><img width="350px" src="./documentation/registersller.PNG" border="0" alt="Profile" /> </td>
-  </tr>
-  <tr>
-    <td>RegisteCostomer</td>
-    <td>RegisterSeller</td>
-  </tr>
-  <tr>
-    <td><img width="350px" src="./documentation/home1.PNG" border="0" alt="Hire" /> </td>
-    <td><img width="350px" src="./documentation/home2.PNG" border="0" alt="Hire" /> </td>
-  </tr>
-  <tr>
-    <td>Home </td>
-    <td>Home</td>
-  </tr>
-  <tr>
-    <td><img width="350px" src="./documentation/home3.PNG" border="0" alt="Search" /></td>
-    <td><img width="350px" src="./documentation/detail.PNG" border="0" alt="Detail Talent" /> </td>
+    <td><img width="350px" src="./doc/Home.png" border="0" alt="Profile" /> </td>
+    <td><img width="350px" src="./doc/detail.png" border="0" alt="Profile" /> </td>
   </tr>
   <tr>
     <td>Home</td>
-    <td>Detail Product</td>
+    <td>Detail/td>
   </tr>
   <tr>
-    <td><img width="350px" src="./documentation/detail2.PNG" border="0" alt="Search" /></td>
-    <td><img width="350px" src="./documentation/mybg.PNG" border="0" alt="Detail Talent" /> </td>
+    <td><img width="350px" src="./doc/update.png" border="0" alt="Hire" /> </td>
+    <td><img width="350px" src="./doc/delete.png" border="0" alt="Hire" /> </td>
   </tr>
   <tr>
-    <td>Detail Desc</td>
-    <td>My Bag</td>
-  </tr>
-   <tr>
-    <td><img width="350px" src="./documentation/addres.PNG" border="0" alt="Search" /></td>
-    <td><img width="350px" src="./documentation/Cekout.PNG" border="0" alt="Detail Talent" /> </td>
+    <td>Update </td>
+    <td>Delete</td>
   </tr>
   <tr>
-    <td>Addres</td>
-    <td>Cekout</td>
-  </tr>
-   <tr>
-    <td><img width="350px" src="./documentation/formAdress.PNG" border="0" alt="Search" /></td>
-    <td><img width="350px" src="./documentation/payment.PNG" border="0" alt="Detail Talent" /> </td>
+    <td><img width="350px" src="./doc/artices.png" border="0" alt="Search" /></td>
+    <td><img width="350px" src="./doc/addArticel.png" border="0" alt="Detail Talent" /> </td>
   </tr>
   <tr>
-    <td>Addres</td>
-    <td>Payment</td>
-  </tr>
-    <tr>
-    <td><img width="350px" src="./documentation/profileCostomer.PNG" border="0" alt="Search" /></td>
-    <td><img width="350px" src="./documentation/profileSeller.PNG" border="0" alt="Detail Talent" /> </td>
-  </tr>
-  <tr>
-    <td>Profile Costomer</td>
-    <td>Profile Seller</td>
-  </tr>
-   <tr>
-    <td><img width="350px" src="./documentation/profileAddresCostomer.PNG" border="0" alt="Search" /></td>
-    <td><img width="350px" src="./documentation/productseller.PNG" border="0" alt="Detail Talent" /> </td>
-  </tr>
-  <tr>
-    <td>Profile Costomer Address</td>
-    <td>Profile Seller Product</td>
-  </tr>
-     <tr>
-    <td><img width="350px" src="./documentation/myOrderCostomer.PNG" border="0" alt="Search" /></td>
-    <td><img width="350px" src="./documentation/myorderSeller.PNG" border="0" alt="Detail Talent" /> </td>
-  </tr>
-  <tr>
-    <td>Profile Costomer My Order</td>
-    <td>Profile Seller My Order</td>
+    <td>Table</td>
+    <td>ADD Articels</td>
   </tr>
 
 </table>
 
 # Related Project
 
-:rocket: [`Frontend Blanja`](https://github.com/yabeselkana/react_biginer.git)
+:rocket: [`Frontend Blanja`](https://github.com/yabeselkana/React_Articel_FE.git)
 
 :rocket: [`Backend Blanja`](https://github.com/yabeselkana/backend_express.js.git)
 
-:rocket: [`Demo Blanja`](https://react-biginer.vercel.app/home)
+:rocket: [`Demo Blanja`](https://react-articel-fe.vercel.app/)

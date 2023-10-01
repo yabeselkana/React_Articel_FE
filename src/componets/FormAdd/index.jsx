@@ -17,6 +17,8 @@ const FormAdd = () => {
 
   const navigate = useNavigate();
 
+  const idUser = localStorage.getItem("users_id");
+
   const onChange = (e) => {
     setData({
       ...data,
@@ -35,7 +37,7 @@ const FormAdd = () => {
   let hendelSubmit = (e) => {
     e.preventDefault();
 
-    dispatch(createArticel(data, photo, isLoading, navigate));
+    dispatch(createArticel(data, photo, isLoading, navigate, idUser));
   };
 
   return (
