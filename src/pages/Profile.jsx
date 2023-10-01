@@ -2,6 +2,7 @@ import React from "react";
 import SideBar from "../componets/SideBar";
 import NavLog from "../componets/NavLog";
 import FormAdd from "../componets/FormAdd";
+import Foot from "../componets/Foot";
 
 const Profile = () => {
   return (
@@ -13,6 +14,7 @@ const Profile = () => {
           <FormAdd />
         </div>
       </div>
+      <Foot />
     </>
   );
 };

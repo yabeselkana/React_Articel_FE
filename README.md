@@ -125,6 +125,6 @@ npm run build
 
 :rocket: [`Frontend Artikel`](https://github.com/yabeselkana/React_Articel_FE.git)
 
-:rocket: [`Backend Artikel`](https://github.com/yabeselkana/React_Articel_FE.git)
+:rocket: [`Backend Artikel`](https://github.com/yabeselkana/React_Articel_Be.git)
 
 :rocket: [`Demo Artikel`](https://react-articel-fe.vercel.app/)

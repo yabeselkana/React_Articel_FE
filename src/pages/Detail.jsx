@@ -4,6 +4,7 @@ import Details from "../componets/Detail";
 import { useParams } from "react-router-dom";
 import Navbar from "../componets/Navbar";
 import Posting from "../componets/Posting";
+import Foot from "../componets/Foot";
 
 const Detail = () => {
   let { id } = useParams();
@@ -14,6 +15,7 @@ const Detail = () => {
       {!login ? <Navbar /> : <NavLog />}
       <Details id={id} />
       <Posting />
+      <Foot />
     </>
   );
 };
