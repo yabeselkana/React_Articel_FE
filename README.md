@@ -21,10 +21,6 @@
 - [Screenshots](#screenshots)
 - [Related Project](#related-project)
 
-# About The Project
-
-Blanja is an e-commerce platform in the fashion style field where users can log in and enjoy a delightful shopping experience with a highly user-friendly experience.
-
 ## Built With
 
 These are the libraries and service used for building this backend API
