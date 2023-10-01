@@ -123,8 +123,8 @@ npm run build
 
 # Related Project
 
-:rocket: [`Frontend Blanja`](https://github.com/yabeselkana/React_Articel_FE.git)
+:rocket: [`Frontend Artikel`](https://github.com/yabeselkana/React_Articel_FE.git)
 
-:rocket: [`Backend Blanja`](https://github.com/yabeselkana/backend_express.js.git)
+:rocket: [`Backend Artikel`](https://github.com/yabeselkana/backend_express.js.git)
 
-:rocket: [`Demo Blanja`](https://react-articel-fe.vercel.app/)
+:rocket: [`Demo Artikel`](https://react-articel-fe.vercel.app/)
