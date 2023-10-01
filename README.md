@@ -41,7 +41,7 @@ You'll need these programs installed before proceeding to installation
 - [Git](https://git-scm.com/downloads)
 - [Node.js](https://nodejs.org/en/download)
 
-This project requires [blanja-app-be](https://github.com/yabeselkana/backend_express.js.git) to function properly, follow the steps provided in the readme to install and run the backend API
+This project requires [Artikcel](https://github.com/yabeselkana/backend_express.js.git) to function properly, follow the steps provided in the readme to install and run the backend API
 
 ## Installation
 
